@@ -1,0 +1,1 @@
+Full Stack Developer with experience in Python, Flask, React, JavaScript, and machine learning. Built end-to-end applications, including web scraping, data pipelines, and NLP-based job-resume matching. Familiar with TF-IDF, Word2Vec, Cosine Similarity, and REST APIs.
